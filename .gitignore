@@ -24,4 +24,5 @@ yarn-error.log*
 
 package.json
 package-lock.json
-
+tsconfig.json
+README.md
